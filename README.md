@@ -2,7 +2,7 @@
 
 Hey there! This is my solution for Module 5 of the Coursera *HTML, CSS, and Javascript for Web Developers* course. It’s a dynamic restaurant web app with a "Specials" tile that loads a random menu category using JavaScript and AJAX. Wanna see it in action? Let’s dive in!
 
-👉 **Check it out here**: [https://your-username.github.io/Restaurant-Web-App/](https://your-username.github.io/Restaurant-Web-App/)
+👉 **Check it out here**: [https://ahsankhizar5.github.io/Restaurant-Web-App/](https://ahsankhizar5.github.io/Restaurant-Web-App/)
 
 ---
 
